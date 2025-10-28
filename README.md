@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🎯 Data Analyst | Automation Developer | Systems Engineering Student
+### 🎯 Automatización de Procesos | Análisis de Datos | Estudiante de Ingeniería de Sistemas
 
 *Creando soluciones reales con código - De la teoría a la producción*
 
@@ -21,10 +21,10 @@
 ```python
 class LuisRamos:
     def __init__(self):
-        self.role = "Data Analyst & Automation Developer"
-        self.location = "Ica, Perú 🇵🇪"
-        self.current_focus = ["Web Scraping", "Process Automation", "Data Viz"]
-        self.learning = ["Machine Learning", "PySpark", "Cloud Computing"]
+        self.especialidad = "Automatización & Análisis de Datos"
+        self.ubicacion = "Ica, Perú 🇵🇪"
+        self.enfoque_actual = ["Web Scraping", "Automatización de Procesos", "Visualización de Datos"]
+        self.aprendiendo = ["Machine Learning", "PySpark", "Cloud Computing"]
         
     def say_hi(self):
         print("¡Me encanta resolver problemas con código y datos!")
