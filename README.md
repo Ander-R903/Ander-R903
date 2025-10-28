@@ -49,10 +49,10 @@ class LuisRamos:
 **El problema:** Consumidores sin información de precios comparados entre supermercados peruanos.
 
 **La solución:**
-- 🕷️ **Web Scraping automático** de Tottus y Plaza Vea con Playwright
-- 🔄 **ETL pipeline** completo: extracción → limpieza → carga a SQL Server
-- 📊 **Dashboard interactivo** en Power BI con análisis de variaciones de hasta 30%
-- 💰 Detecta promociones y tendencias de precios
+- **Web Scraping automático** de Tottus y Plaza Vea con Playwright
+- **ETL pipeline** completo: extracción → limpieza → carga a SQL Server
+- **Dashboard interactivo** en Power BI con análisis de variaciones de hasta 30%
+- Detecta promociones y tendencias de precios
 
 **Tech Stack:** `Python` `Playwright` `Pandas` `Polars` `SQL Server` `SSIS` `Power BI` `DAX`
 
@@ -68,10 +68,10 @@ class LuisRamos:
 **El problema:** Análisis manual tedioso de cientos de actas técnicas en PDF.
 
 **La solución:**
-- 📄 **Interfaz web** en Streamlit para carga de archivos ZIP
-- 🤖 **Extracción inteligente** con pdfplumber + validación automática
-- 📊 **Consolidación** en Excel con formato estandarizado
-- 🔗 **Integración** con dashboards para reportes en tiempo real
+- **Interfaz web** en Streamlit para carga de archivos ZIP
+- **Extracción inteligente** con pdfplumber + validación automática
+- **Consolidación** en Excel con formato estandarizado
+- **Integración** con dashboards para reportes en tiempo real
 
 **Tech Stack:** `Python` `pdfplumber` `Streamlit` `Pandas` `openpyxl`
 
