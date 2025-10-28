@@ -17,7 +17,6 @@
 ---
 
 ## 🧠 ¿Qué hago?
-
 ```python
 class LuisRamos:
     def __init__(self):
@@ -27,15 +26,15 @@ class LuisRamos:
         self.aprendiendo = ["Machine Learning", "PySpark", "Cloud Computing"]
         
     def say_hi(self):
-        print("¡Me encanta resolver problemas con código y datos!")
+        print("¡Construyo proyectos que resuelven problemas reales!")
         
-    def daily_routine(self):
-        return [
-            "☕ Café + código Python",
-            "📊 Analizar datos y encontrar insights",
-            "🤖 Automatizar lo que nadie quiere hacer manualmente",
-            "📈 Crear dashboards que hablen por sí mismos"
-        ]
+    def what_i_bring(self):
+        return {
+            "experiencia_practica": "Proyectos de producción con impacto medible",
+            "habilidades_tecnicas": "Stack completo de Análisis de Datos y Automatización",
+            "mentalidad_aprendizaje": "Siempre actualizándome con nuevas tecnologías",
+            "resolucion_problemas": "Del problema a la solución implementada"
+        }
 ```
 
 ---
@@ -109,24 +108,6 @@ class LuisRamos:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
-
----
-
-## 🎯 2025: Objetivos en Progreso
-
-```mermaid
-gantt
-    title Mi Roadmap de Aprendizaje
-    dateFormat YYYY-MM
-    section Machine Learning
-    Scikit-learn Avanzado    :active, 2025-01, 3M
-    PyTorch Fundamentals      :2025-03, 3M
-    section Cloud & Big Data
-    Azure Certification       :active, 2025-01, 4M
-    PySpark en Producción     :2025-02, 3M
-    section Automation
-    n8n Workflows Avanzados   :2025-01, 2M
-```
 
 ---
 
